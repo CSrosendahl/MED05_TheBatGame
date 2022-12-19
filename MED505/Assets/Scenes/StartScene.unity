@@ -582,7 +582,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b6c0ff0b094cdb8459cc2cb841c82975, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameScene: SampleScene
+  gameScene: GameScene
   controls: {fileID: 1614706004}
 --- !u!114 &1198537694
 MonoBehaviour:
